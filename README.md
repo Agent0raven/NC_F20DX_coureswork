@@ -1,6 +1,6 @@
 # NC_F20DX_coureswork
 
-The code in this repo works on my local set up using junyter lab their is another copy in my google drive that will run on Google Colab the only diffrence is who the dataset is uploaded as Colab needs the dataset uploaded directly. 
+The code in this repo works on my local set up using junyter lab their is another copy in my google drive that will run on Google Colab the only diffrence is how the dataset is uploaded as Colab needs the dataset uploaded directly. 
 
 ## Colab Links to Notebooks 
 
